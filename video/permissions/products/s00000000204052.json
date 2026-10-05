@@ -1,0 +1,52 @@
+{
+  "programId": "s00000000204052",
+  "productName": "1本でパウダーまで終わるファンデーション",
+  "formerName": "ハックティック",
+  "advertiser": "株式会社北の達人コーポレーション",
+  "status": "unconfirmed",
+  "eligibleForAutomaticVideo": false,
+  "source": {
+    "type": "user_provided_program_information",
+    "receivedDate": "2026-10-05"
+  },
+  "candidateImages": [
+    {
+      "url": "https://pub.a8.net/data/s00000000204/banner/20261001132059850.jpg",
+      "permissionStatus": "unconfirmed"
+    }
+  ],
+  "advertiserUrl": "https://lp.kaitekikobo.jp/lp/ht/h060001_1126_eight_afi.html?ad_id=a8_ht_1&item_id=HT",
+  "allowedSNS": [],
+  "editingConditions": {
+    "resize": null,
+    "zoom": null,
+    "crop": null,
+    "textOverlay": null
+  },
+  "permissionEvidence": [],
+  "permissionConfirmedDate": null,
+  "inquiry": {
+    "status": "not_sent",
+    "sentDate": null,
+    "requestedSNS": [
+      "Instagram",
+      "Threads",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "draft": "A8.netで提携中の「1本でパウダーまで終わるファンデーション」（プログラムID：s00000000204052）について、画像の動画利用を確認させてください。\n「ゆる美容ノート」で、Instagram・Threads・TikTok・YouTube Shorts向けに15秒の縦型紹介動画を作成したいと考えています。\nA8提供バナー（https://pub.a8.net/data/s00000000204/banner/20261001132059850.jpg）を、縦横比と全内容を保って配置し、控えめな拡大演出を加えることは可能でしょうか。画像内の文字・色は変更せず、商品名・紹介文・PR表示は画像の外に配置する予定です。\n利用可能なSNS、拡大・文字配置等の加工条件、事前の動画確認の要否、現行ブランド名で使用できる画像素材をご教示ください。バナーの動画利用が不可の場合、動画向けに利用許可された商品画像がございましたらご案内いただけますと幸いです。\n許可範囲を確認できるまで公開は行いません。"
+  },
+  "notes": [
+    "提携中であることは動画利用許可として扱わない。",
+    "2026年10月1日のブランド変更を踏まえ、現行名称と素材を確認する。",
+    "提供された案件情報の掲載条件を保存。許可の返信は未受領。"
+  ],
+  "advertiserRequirements": [
+    "販売会社が案内していない効能効果・使用方法を掲載しない",
+    "他社を誹謗中傷する比較・ランキングを避ける",
+    "公式と誤認させる表示をしない",
+    "ブランドを損なう・不安を煽る語句をタイトル・タグ・冒頭に使用しない",
+    "閲覧者にわかるPR表示を付ける",
+    "公開後の広告掲載URL提出"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "productName": "サンプル美容液",
+  "productImage": "images/sample-product.svg",
+  "intro": "毎日のお手入れに、ひと息を。",
+  "points": ["いつものスキンケアにプラス", "使い方は商品情報でチェック", "自分に合うケアを選ぼう"],
+  "cta": "詳しくはプロフィールの紹介ページへ"
+}

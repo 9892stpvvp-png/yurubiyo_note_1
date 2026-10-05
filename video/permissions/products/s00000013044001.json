@@ -1,0 +1,51 @@
+{
+  "programId": "s00000013044001",
+  "productName": "シャイニージェル公式ショップ本店",
+  "advertiser": "株式会社ワールドビューティワークス",
+  "status": "unconfirmed",
+  "eligibleForAutomaticVideo": false,
+  "source": {
+    "type": "user_provided_program_information",
+    "receivedDate": "2026-10-05"
+  },
+  "candidateImages": [
+    {
+      "url": "https://pub.a8.net/data/s00000013044/banner/202301061644543160.jpg",
+      "permissionStatus": "unconfirmed"
+    }
+  ],
+  "advertiserUrl": "https://www.wbw-nail.com/",
+  "allowedSNS": [],
+  "editingConditions": {
+    "resize": null,
+    "zoom": null,
+    "crop": null,
+    "textOverlay": null
+  },
+  "permissionEvidence": [],
+  "permissionConfirmedDate": null,
+  "inquiry": {
+    "status": "not_sent",
+    "sentDate": null,
+    "requestedSNS": [
+      "Instagram",
+      "Threads",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "draft": "件名：商品画像・バナーのSNS動画利用について（s00000013044001）\n\n株式会社ワールドビューティワークス\nアフィリエイトご担当者様\n\nお世話になっております。\nA8.netで提携中の「ゆる美容ノート」と申します。\n\n「シャイニージェル公式ショップ本店」（プログラムID：s00000013044001）の商品紹介動画を制作したく、画像素材の利用範囲について確認させてください。\n\n【予定している利用方法】\n・Instagram、Threads、TikTok、YouTube Shortsへの掲載\n・15秒程度の縦型商品紹介動画\n・商品画像またはA8提供バナーを、縦横比と全内容を保って配置\n・画像に控えめな拡大演出を追加\n・商品名、紹介文、広告・PR表示は画像の外に配置\n・画像内の文字や色の変更、切り抜き、AIによる画像加工は行わない\n\n【確認したい事項】\n1．上記SNSで、商品画像・A8提供バナーを動画に使用できますか。\n2．サイズ調整や拡大演出、画像の外への文字配置は可能ですか。\n3．動画向けに利用できるジェルネイルキット等の商品画像はありますか。\n4．動画や紹介文の公開前確認は必要ですか。\n5．利用期限、紹介対象商品の制限、その他の条件があれば、ご教示ください。\n\n確認対象のバナー：\nhttps://pub.a8.net/data/s00000013044/banner/202301061644543160.jpg\n\n広告であることをわかりやすく表示し、ご案内いただいた表現・掲載条件に沿って制作いたします。修正のご依頼には速やかに対応し、利用許可を確認できるまでは公開いたしません。\n\nお手数をおかけしますが、よろしくお願いいたします。"
+  },
+  "advertiserRequirements": [
+    "広告であることが容易に判別できる表示",
+    "広告主からの修正要求に速やかに対応",
+    "商品リンク先はhttps://www.wbw-nail.com内",
+    "SHINY GEL Professional カラージェル紹介で『サクラクレパス コラボ』等の表現を使用しない（『サクラクレパスとの容器コラボ』等は可能との記載）",
+    "薬事法に触れる文言を使用しない",
+    "公式サイトと誤認させる出稿をしない",
+    "公開後の広告掲載URL提出"
+  ],
+  "notes": [
+    "提携中であることは動画利用許可として扱わない。",
+    "紹介するキット・商品と画像を許可回答に合わせて確定する。"
+  ]
+}

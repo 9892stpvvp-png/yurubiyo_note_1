@@ -2,6 +2,7 @@ import {AbsoluteFill, Img, interpolate, staticFile, useCurrentFrame} from 'remot
 import type {ProductProps} from './schema';
 
 export const BeautyProduct15 = ({productName, productImage, intro, points, cta}: ProductProps) => {
+  const displayProductName = productName.replace(/^\s*(?:(?:No\.?|Ｎｏ\.?|番号)\s*[0-9０-９]+|[0-9０-９]+\s*番)\s*[.．。、:：\-－]?\s*/i, '');
   const frame = useCurrentFrame();
   const scene = Math.min(4, Math.floor(frame / 90));
   const local = frame % 90;
@@ -16,7 +17,7 @@ export const BeautyProduct15 = ({productName, productImage, intro, points, cta}:
     <div style={{position: 'absolute', top: 420, left: 170, width: 740, height: 660, borderRadius: 64, background: '#f1eee7', display: 'flex', alignItems: 'center', justifyContent: 'center', overflow: 'hidden'}}>
       <Img src={image} style={{width: '85%', height: '85%', objectFit: 'contain', transform: `scale(${interpolate(frame, [0, 449], [1, 1.05])})`}}/>
     </div>
-    <div style={{position: 'absolute', top: 1120, left: 100, right: 100, textAlign: 'center', fontSize: 48, fontWeight: 700, lineHeight: 1.35, overflowWrap: 'anywhere'}}>{productName}</div>
+    <div style={{position: 'absolute', top: 1120, left: 100, right: 100, textAlign: 'center', fontSize: 48, fontWeight: 700, lineHeight: 1.35, overflowWrap: 'anywhere'}}>{displayProductName}</div>
     <div style={{position: 'absolute', top: 1300, left: 100, right: 100, opacity, transform: `translateY(${y}px)`, textAlign: 'center'}}>
       <div style={{fontSize: 25, letterSpacing: 4, color: '#6f8b79', marginBottom: 22}}>{scene === 0 ? 'YOUR DAILY CARE' : scene === 4 ? 'CHECK IT OUT' : `POINT 0${scene}`}</div>
       <div style={{fontSize: 48, fontWeight: 600, lineHeight: 1.5, overflowWrap: 'anywhere'}}>{content}</div>
